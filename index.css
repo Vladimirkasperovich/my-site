@@ -1,0 +1,25 @@
+body {
+    background-color: grey;
+}
+
+#img1 {
+    
+    outline: 3px solid black;
+}
+
+#img2 {
+    outline: 3px solid black; 
+}
+
+#img3 {
+    outline: 3px solid black;
+    
+}
+
+#img4 {
+    outline: 3px solid black;
+}
+button{
+    font-weight: 100px;
+    height:100px;
+}
